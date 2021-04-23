@@ -1,2 +1,4 @@
 # Dan-justJavascript
-https://justjavascript.com/ 课程的翻译（只有9章），边看边译
+来自 Dan Abramov 的课程 https://justjavascript.com/ 的翻译，边看边译的
+
+可惜他只更新了 9 章就 say goodbye 了，打算用这个发给他去催更...
